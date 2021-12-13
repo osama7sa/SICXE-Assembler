@@ -1,0 +1,13 @@
+exec START 0
+LDX null
+back LDCH msg, X
+TIX size
+JEQ finish
+WD dv
+J back
+size WORD 14
+null WORD 0
+dv BYTE X’5a’
+msg BYTE C’Project-exam-1’
+finish RSUB
+END exec
