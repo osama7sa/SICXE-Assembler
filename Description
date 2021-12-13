@@ -1,0 +1,25 @@
+Assemblers for SIC.
+ 
+
+- Assemblers for SIC/XE.
+- Project Part 1&2 – SIC assembler design and development (Pass 1 and Pass 2)
+ 
+ 
+Machine-independent assembler features :
+-literals
+-symbol definitions
+-expressions
+-Control blocks and Control sections.
+ 
+
+One-pass and multi-pass assemblers.
+Project Part 3&4 – SIC/XE assembler design and development (Pass 1 and Pass 2).
+
+Basic loader functions, machine-dependent loader functions.
+ 
+Machine-independent loader features, Loader design options (bootstrap loader, Relative loader, Linking loader).
+Project Part 6&7 – Linking loader implementation (Pass 1 and Pass2).
+
+Macro processors, basic functions, machine-dependent features.
+ 
+Machine-independent features, Implementation.
